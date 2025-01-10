@@ -1,0 +1,13 @@
+{
+  "thind": {
+    "password": "thind",
+    "moodLogs": [
+      {
+        "mood": "happy",
+        "reason": "got a new job",
+        "productivity": "5",
+        "date": "2025-01-10T06:45:52.496Z"
+      }
+    ]
+  }
+}

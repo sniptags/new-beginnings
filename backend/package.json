@@ -1,0 +1,24 @@
+{
+  "name": "new-beginnings-backend",
+  "version": "1.0.0",
+  "description": "Backend for the New Beginnings mental health and productivity tracking application.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "jsonwebtoken": "^9.0.2",
+    "openai": "^4.78.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
